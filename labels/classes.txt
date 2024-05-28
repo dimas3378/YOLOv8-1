@@ -1,0 +1,6 @@
+lingkaran_kecil
+lingkaran_besar
+persegi_kecil
+persegi_besar
+segitiga_kecil
+segitiga_besar
